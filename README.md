@@ -3,7 +3,8 @@
 A clean and modern **Newsletter Signup UI** built using **HTML, CSS, and Font Awesome**.  
 It provides a simple form for users to subscribe and receive updates.
 
-🌐 **Live Demo:** [View here](https://yoyoooz.github.io/News-homepage/)  
+🌐 **Live Demo:** [View here](https://yoyoooz.github.io/Newsletter-UI-Component/
+)  
 
 
 ---
